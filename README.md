@@ -8,6 +8,8 @@
 #### MOBILE VIEW
 ![home](https://github.com/sairam-jogu/movie-details/assets/130178825/c2b00d32-1374-441b-8fe0-70e661278b47)
 
+#### SEARCH PAGE
+![Screenshot (43)](https://github.com/sairam-jogu/movie-details/assets/130178825/de7278ab-3341-43ae-9bc5-d90c53616ab5)
 
 
 
