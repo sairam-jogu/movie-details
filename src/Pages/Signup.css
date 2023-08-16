@@ -1,0 +1,81 @@
+body {
+  overflow-x: hidden;
+}
+
+.sidenav {
+  height: 100%;
+  background-color: #000;
+  overflow-x: hidden;
+}
+
+.main {
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .login-form {
+    margin-top: 10%;
+  }
+
+  .register-form {
+    margin-top: 10%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .main {
+    margin-left: 40%;
+  }
+
+  .sidenav {
+    width: 40%;
+    position: relative;
+    z-index: 1;
+  }
+
+  .login-form {
+    margin-top: 20px;
+  }
+
+  .register-form {
+    margin-top: 20%;
+  }
+}
+
+.login-form {
+  margin-top: 50px;
+  margin-bottom: 45px;
+}
+.login-main-text {
+  margin-top: 10px;
+  padding: 60px;
+  color: #fff;
+}
+
+.login-main-text h2 {
+  font-weight: bold;
+}
+
+.btn-black {
+  background-color: #000 !important;
+  color: #fff;
+}
+
+.search3 {
+  background-color: #ff004f;
+  color: #fff;
+  padding: 10px;
+  width: 100px;
+  border: none;
+  border-radius: 10px;
+}
+
+.search3:hover {
+  background-color: #f7a1bc;
+}
